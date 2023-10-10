@@ -1,0 +1,2 @@
+# azure
+For only Azure
